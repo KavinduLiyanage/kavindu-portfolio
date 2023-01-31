@@ -1,20 +1,19 @@
-# Personal Portfolio Website built with React v16
+# Personal Portfolio Website built with ReactJS
 
 [![Screenshot](/public/social-image.png?raw=true)](https://kavindu.vercel.app)
 
-[![Website mctan.dev](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mctan.dev)
+[![Website kavindu.dev](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kavindu.vercel.app)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/KavinduLiyanage/kavindu-portfolio/blob/main/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KavinduLiyanage/kavindu-portfolio/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!. View demo at [https://http://vercel.com//](https://kavindu.vercel.app)
+View demo at [https://http://kavindu.vercel.app//](https://kavindu.vercel.app)
 
 -   built using [React](https://reactjs.org)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   styled with [Material-UI](https://material-ui.com)
 -   deployed on vercel [Vercel](https://vercel.com)
 
-Special thanks to [Jo Lienhoop](https://github.com/JoHoop), and [Cody Bennett](https://github.com/CodyJasonBennett) for the inspiration.
 
 ## Features
 
