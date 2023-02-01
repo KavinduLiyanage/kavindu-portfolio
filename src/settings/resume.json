@@ -6,15 +6,15 @@
         "phone": "(+94) 774-229289",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
-        "job2": "Developer",
+        "job1": "Full Stack",
+        "job2": "Engineer",
         "description": "Hello! I'm Kavindu! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
         "summary": "based in Matara, Sri lanka.",
         "keywords": "personal,website,portfolio,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
         "url": "https://kavindu.vercel.app/",
         "location": {
             "address": "XX XXXXXstreet",
-            "postalCode": "XXXXX",
+            "postalCode": "81479",
             "city": "Matara",
             "country": "Sri lanka",
             "countryCode": "SL",
@@ -29,7 +29,7 @@
             },
             {
                 "network": "LinkedIn",
-                "username": "kavinduliyanage",
+                "username": "Kavindu S. Liyanage",
                 "url": "https://www.linkedin.com/in/kavinduliyanage/",
                 "x_icon": "fab fa-linkedin-in"
             },
@@ -46,16 +46,16 @@
                 "x_icon": "fab fa-gitlab"
             },
             {
-                "network": "Telegram",
-                "username": "KavinduLiyanage",
-                "url": "https://t.me/KavinduLiyanage",
-                "x_icon": "fab fa-telegram-plane"
+                "network": "Medium",
+                "username": "Kavindu S. Liyanage",
+                "url": "https://medium.com/@KavinduLiyanage",
+                "x_icon": "fab fa-medium"
             },
             {
-                "network": "Discord",
-                "username": "KavinduLiyanage",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
+                "network": "Blog",
+                "username": "TechPursue",
+                "url": "https://kavinduliyanage.wixsite.com/techpursuenew",
+                "x_icon": "fab fa-blogger"
             }
         ]
     },
