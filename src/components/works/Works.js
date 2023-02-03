@@ -7,7 +7,7 @@ import { TextDecrypt } from "../content/TextDecrypt";
 
 import './Works.css';
 
-import Portfolio from '../../assets/recentProjects/Workwise.png';
+import Portfolio from '../../assets/recentProjects/react-portfolio.png';
 // import Veritru from '../../assets/recentProjects/veritru.png';
 // import Lofo from '../../assets/recentProjects/lofo.png';
 // import Startup from '../../assets/recentProjects/startup.png';
