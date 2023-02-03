@@ -7,7 +7,7 @@ import { TextDecrypt } from "../content/TextDecrypt";
 
 import './Works.css';
 
-import Portfolio from '../../assets/recentProjects/react-portfolio.png';
+// import Portfolio from '../../assets/recentProjects/react-portfolio.png';
 // import Veritru from '../../assets/recentProjects/veritru.png';
 // import Lofo from '../../assets/recentProjects/lofo.png';
 // import Startup from '../../assets/recentProjects/startup.png';
@@ -41,15 +41,15 @@ export const Works = () => {
       alter: 'Startup Project',
       image: `${Homaze}`,
     },
-    {
-      id: 3,
-      title: 'React Portfolio',
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
-      image: `${Portfolio}`,
-    },
+    // {
+    //   id: 3,
+    //   title: 'React Portfolio',
+    //   description: `Designed and developed a ReactJS portfolio 
+    //   with fancy 3D animations using Three.js for 
+    //   the background element.`,
+    //   alter: 'React Portfolio',
+    //   image: `${Portfolio}`,
+    // },
     // {
     //   id: 2,
     //   title: 'VeriTru Project',
