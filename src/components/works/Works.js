@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
 
 export const Works = () => {
   const classes = useStyles();
-  const [projects] = useState([
+  const [projects,] = useState([
     {
       id: 1,
       title: 'Marketplace for Office Spaces',
