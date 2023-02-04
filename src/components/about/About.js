@@ -7,7 +7,7 @@ import { FirstName, LastName } from "../../utils/getName";
 
 import './About.css';
 
-import profile from '../../assets/profile.png';
+import profile from '../../assets/profile.jpg';
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -20,17 +20,16 @@ const useStyles = makeStyles((theme) => ({
 export const About = () => {
   const classes = useStyles();
   const greetings = "Hello there!";
-  const aboutme = `I'm ${FirstName} ${LastName}, a multidisciplinary 
-                  designer & developer. I'm always down for something new and challenging!
-                  I'm here to help you create beautifully formatted websites. 
-                  My projects mostly includes web development.`;
+  const aboutMe1 = `I'm ${FirstName} ${LastName}, Dedicated and efficient Full-stack 
+                    Engineer with 2 years of industrial experience in MERN stack. I've always found coding intuitive and have pushed myself to learn the most effective ways to achieve a result. I can adapt to any technology rapidly making myself flexible upon any tech stack and can quickly integrate into a team.`;
+  const aboutMe2 = "In my spare time, I like to travel, play video games, and catch my knowledge on upcoming tech trends.I'm always down for hearing about new projects, so feel free to drop me a line.";
 
   return (
     <section id="about">
       <Container component="main" className={classes.main} maxWidth="md">
         <div className="about">
           <div className="_img"
-            style={{ 
+            style={{
               background: "url(" + profile + ")",
               backgroundSize: 'contain',
               backgroundPosition: 'center',
@@ -42,9 +41,8 @@ export const About = () => {
             <Typography component='h2' variant="h5">
               <TextDecrypt text={`${greetings}`} />
             </Typography>
-            <p className="aboutme">
-              {aboutme}
-            </p>
+            <p className="aboutme">{aboutMe1}</p>
+            <p className="aboutme">{aboutMe2}</p>
             <a href="#contact" className="contact-btn">
               <i className="fas fa-terminal"></i>
               <Typography component='span'> Send me a message.</Typography>
