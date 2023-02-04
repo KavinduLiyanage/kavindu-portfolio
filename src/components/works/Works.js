@@ -8,8 +8,9 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Portfolio from '../../assets/recentprojects/react-portfolio-new.png';
+import Portfolio from '../../assets/recentprojects/react-portfolio.png';
 import Homaze from '../../assets/recentprojects/Homaze.png';
+import Workwise from '../../assets/recentprojects/Workwise.png';
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -24,12 +25,10 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     {
       id: 1,
-      title: 'React Portfolio',
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
-      image: `${Portfolio}`,
+      title: 'Marketplace for Office Spaces',
+      description: 'Buy or Sell Office spaces without hassle. Search offices according to your locations and an AI-powered recommendation engine that always helps buyers find their dream offices.',
+      alter: 'Startup Project',
+      image: `${Workwise}`,
     },
     {
       id: 2,
@@ -37,6 +36,15 @@ export const Works = () => {
       description: 'Online Quotation Generating Web app for Contractors.',
       alter: 'Startup Project',
       image: `${Homaze}`,
+    },
+    {
+      id: 3,
+      title: 'React Portfolio',
+      description: `Designed and developed a ReactJS portfolio 
+      with fancy 3D animations using Three.js for 
+      the background element.`,
+      alter: 'React Portfolio',
+      image: `${Portfolio}`,
     },
   ]);
 
