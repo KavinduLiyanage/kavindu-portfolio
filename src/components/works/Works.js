@@ -25,24 +25,27 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     {
       id: 1,
-      title: 'Marketplace for Office Spaces',
-      description: 'Buy or Sell Office spaces without hassle. Search offices according to your locations and an AI-powered recommendation engine that always helps buyers find their dream offices.',
+      title: 'Workwise Web App',
+      description: `Workwise is an online marketplace that connects people who want to rent out their properties, office listing with people who are looking for properties in that locale. For owners and affiliates participating in Workwise is a way to earn income from their property.`,
+      technologies: `ReactJS, Redux, Redux-saga, Google API, Material UI, NodeJS, ExpressJS, MongoDB, AWS EC2, S3, Formik`,
       alter: 'Startup Project',
       image: `${Workwise}`,
     },
     {
       id: 2,
-      title: 'Hommazze',
-      description: 'Online Quotation Generating Web app for Contractors.',
+      title: 'Homaze Web App',
+      description: `Homaze helps remodelers & renovation experts create estimates in minutes on-site, turn those estimates into professional-grade proposals, and share them with their clients. Remodelers can then manage all client communication in one place to ensure all i's are dotted and t's are crossed. Homaze uses technology that turns the tedious remodeling officework process into an easy-to-use tool.`,
+      technologies: `React with Typescript, Redux, Redux-saga, Material UI, NodeJS, ExpressJS, MongoDB, AWS EC2, S3, Formik`,
       alter: 'Startup Project',
       image: `${Homaze}`,
     },
     {
       id: 3,
-      title: 'React Portfolio',
+      title: 'Portfolio Web App',
       description: `Designed and developed a ReactJS portfolio 
       with fancy 3D animations using Three.js for 
       the background element.`,
+      technologies: `ReactJS, Material-ui`,
       alter: 'React Portfolio',
       image: `${Portfolio}`,
     },
@@ -62,6 +65,9 @@ export const Works = () => {
               </h3>
               <p className="description">
                 {project.description}
+              </p>
+              <p className="technologies">
+                Technologies: {project.technologies}
               </p>
             </div>
           </div>
