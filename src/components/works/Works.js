@@ -34,7 +34,7 @@ export const Works = () => {
     {
       id: 2,
       title: 'Homaze Web App',
-      description: `Homaze helps remodelers & renovation experts create estimates in minutes on-site, turn those estimates into professional-grade proposals, and share them with their clients. Remodelers can then manage all client communication in one place to ensure all i's are dotted and t's are crossed. Homaze uses technology that turns the tedious remodeling officework process into an easy-to-use tool.`,
+      description: `Homaze helps remodelers & renovation experts create estimates in minutes on-site, turn those estimates into professional-grade proposals, and share them with their clients. Remodelers can then manage all client communication in one place to ensure all i's are dotted and t's are crossed. Homaze uses technology that turns the tedious remodeling office work process into an easy-to-use tool.`,
       technologies: `React with Typescript, Redux, Redux-saga, Material UI, NodeJS, ExpressJS, MongoDB, AWS EC2, S3, Formik`,
       alter: 'Startup Project',
       image: `${Homaze}`,
