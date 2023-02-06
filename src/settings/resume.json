@@ -1,19 +1,19 @@
 {
     "basics": {
         "name": "Kavindu Liyanage",
-        "label": "Web Developer",
+        "label": "Full Stack Engineer",
         "email": "sandeepa8956@gmail.com",
-        "phone": "(+94) 774-229289",
-        "picture": "mt.png",
+        "phone": "(+94) 774 229 289",
+        "picture": "kl.png",
         "x_title": "Hello, I'm",
         "job1": "Full Stack",
         "job2": "Engineer",
         "description": "Hello! I'm Kavindu! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
         "summary": "based in Matara, Sri lanka.",
         "keywords": "personal,website,portfolio,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://kavindu.vercel.app/",
+        "url": "https://www.kavindus.com/",
         "location": {
-            "address": "XX XXXXXstreet",
+            "address": "Waralla",
             "postalCode": "81479",
             "city": "Matara",
             "country": "Sri lanka",
@@ -22,10 +22,10 @@
         },
         "profiles": [
             {
-                "network": "Google",
-                "username": "sandeepa8956@gmail.com",
-                "url": "mailto:sandeepa8956@gmail.com",
-                "x_icon": "fab fa-google"
+                "network": "GitHub",
+                "username": "KavinduLiyanage",
+                "url": "https://github.com/KavinduLiyanage",
+                "x_icon": "fab fa-github"
             },
             {
                 "network": "LinkedIn",
@@ -34,10 +34,10 @@
                 "x_icon": "fab fa-linkedin-in"
             },
             {
-                "network": "GitHub",
-                "username": "KavinduLiyanage",
-                "url": "https://github.com/KavinduLiyanage",
-                "x_icon": "fab fa-github"
+                "network": "Google",
+                "username": "sandeepa8956@gmail.com",
+                "url": "mailto:sandeepa8956@gmail.com",
+                "x_icon": "fab fa-google"
             },
             {
                 "network": "GitLab",
@@ -62,7 +62,7 @@
     "work": [
         {
             "company": "Company",
-            "position": "President",
+            "position": "ASE",
             "website": "http://company.com",
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
@@ -118,16 +118,12 @@
     ],
     "languages": [
         {
-            "language": "German",
-            "fluency": "Native speaker"
-        },
-        {
             "language": "English",
             "fluency": "Fluent speaker"
         },
         {
-            "language": "French",
-            "fluency": "Good knowledge"
+            "language": "Sinhala",
+            "fluency": "Native speaker"
         }
     ],
     "interests": [
