@@ -7,10 +7,10 @@ import { TextDecrypt } from "../content/TextDecrypt";
 
 import './Works.css';
 
-// Import ../../assets/recentprojects/
 import Portfolio from '../../assets/recentprojects/react-portfolio.png';
 import Homaze from '../../assets/recentprojects/Homaze.png';
 import Workwise from '../../assets/recentprojects/Workwise.png';
+import FusionX from '../../assets/recentprojects/Lending.png';
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -41,6 +41,14 @@ export const Works = () => {
     },
     {
       id: 3,
+      title: 'FusionX Banking App',
+      description: `FusionX is a core-banking platform developed to help standardize and optimize the operations of the branches.`,
+      technologies: `React with TypeScript, Redux-toolkit, Ant-Design, Tailwind CSS, Styled-components, Auth0`,
+      alter: 'Banking System',
+      image: `${FusionX}`,
+    },
+    {
+      id: 4,
       title: 'Portfolio Web App',
       description: `Designed and developed a ReactJS portfolio 
       with fancy 3D animations using Three.js for 
