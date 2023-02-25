@@ -63,7 +63,7 @@
         {
             "company": "Company",
             "position": "ASE",
-            "website": "http://company.com",
+            "website": "https://company.com",
             "startDate": "2013-01-01",
             "endDate": "2014-01-01",
             "summary": "Description...",
@@ -74,7 +74,7 @@
         {
             "organization": "Organization",
             "position": "Volunteer",
-            "website": "http://organization.com/",
+            "website": "https://organization.com/",
             "startDate": "2012-01-01",
             "endDate": "2013-01-01",
             "summary": "Description...",
@@ -105,7 +105,7 @@
             "name": "Publication",
             "publisher": "Company",
             "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
+            "website": "https://publication.com",
             "summary": "Description..."
         }
     ],
