@@ -53,7 +53,7 @@ export const Works = () => {
       description: `Designed and developed a ReactJS portfolio 
       with fancy 3D animations using Three.js for 
       the background element.`,
-      technologies: `ReactJS, Material-ui`,
+      technologies: `ReactJS, Material-uiI, GitHub, Vercel`,
       alter: "React Portfolio",
       image: `${Portfolio}`,
     },

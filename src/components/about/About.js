@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
 export const About = () => {
   const classes = useStyles();
   const greetings = "Hello there!";
-  const aboutMe1 = `I'm ${FirstName} ${LastName}, Dedicated and efficient Full-stack Engineer with 2 years of industrial experience. I am eager to solve problems and have pushed myself to learn the most effective ways to achieve a result. I can adapt to any technology rapidly making myself flexible upon any tech stack and can quickly integrate into a team.`;
+  const aboutMe1 = `I'm ${FirstName} ${LastName}, Dedicated and efficient Full-Stack Engineer with 2 years of industrial experience. I am eager to solve problems and have pushed myself to learn the most effective ways to achieve a result. I can adapt to any technology rapidly making myself flexible upon any tech stack and can quickly integrate into a team.`;
   const aboutMe2 =
     "In my spare time, I like to travel, play video games, and catch my knowledge on upcoming tech trends.I'm always down for hearing about new projects, so feel free to drop me a line.";
 
