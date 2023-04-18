@@ -1,11 +1,11 @@
-# Personal Portfolio Website built with ReactJS
+# Personal Portfolio Web App built with ReactJS
 
 [![Screenshot](/public/social-image.png?raw=true)](https://kavindu.vercel.app)
 
 [![Website kavindu.dev](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://kavindu.vercel.app)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/KavinduLiyanage/kavindu-portfolio/blob/main/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/KavinduLiyanage/kavindu-portfolio/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
 
 View live deployment at [kavindus.com](https://www.kavindus.com/)
 
@@ -25,13 +25,13 @@ View live deployment at [kavindus.com](https://www.kavindus.com/)
 -   Two beautiful resume page templates generated based on the data in the resume.json file -- a modern approach of the traditional printed CV.
 -   Rich Google search results using structured data with [json-ld.org/](https://json-ld.org).
 
-## Customization
+<!-- ## Customization
 
 Feel free to fork this project and customize it with your own information and style.
 
 Refer to the [Material UI docs](https://material-ui.com/customization/theming) for guidance on how to quickly customize the themes, components and colors to suit your tastes.
 
-If you improve the app in any way a pull request would be very much appreciated ✌️
+If you improve the app in any way a pull request would be very much appreciated ✌️ -->
 
 ## Available Scripts
 
