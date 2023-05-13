@@ -1,12 +1,9 @@
-/* eslint-disable no-unused-vars */
 import React from "react";
 import { Container, Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { TextDecrypt } from "../content/TextDecrypt";
 import { FirstName, LastName } from "../../utils/getName";
-
 import "./About.css";
-
 import profile from "../../assets/profile.jpg";
 
 const useStyles = makeStyles((theme) => ({
